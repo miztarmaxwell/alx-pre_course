@@ -1,1 +1,1 @@
-I am now a student of ALX studying to become a back-end software engineer
+This is the edited text from Github
